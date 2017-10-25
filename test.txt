@@ -1,2 +1,2 @@
 Hello, this is me, test.
-
+-- Edit 1: Adding new folder, modified this text file.
